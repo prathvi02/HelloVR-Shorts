@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384179857885",
+    "project_id": "hellovr-shorts-e370f",
+    "storage_bucket": "hellovr-shorts-e370f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384179857885:android:ce9c746b3d599f4f06ae34",
+        "android_client_info": {
+          "package_name": "com.example.hellovr_shorts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDimxzHU0RbL6SKvqzLWRpN9f1nXrHQqO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
